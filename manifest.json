@@ -1,0 +1,17 @@
+{
+  "name": "Aprenda Fácil — PMPE AOCP 2027",
+  "short_name": "Aprenda Fácil",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0e0c",
+  "theme_color": "#101410",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
