@@ -22,3 +22,10 @@ Aplicativo estático para GitHub Pages. Não exige cadastro nem servidor; o prog
 3. Em Settings → Pages, selecione Deploy from a branch, `main` e `/(root)`.
 
 O progresso é local ao navegador. Para não perder dados, use a exportação/importação de backup disponível no app.
+
+
+## Atualização de interface (v2)
+- Alternativas podem ser riscadas e desfeitas pelo botão Eliminar.
+- Feedback de acerto/erro com animação.
+- Chama de dias consecutivos atualizada ao responder questões.
+- Removidos prefixos artificiais repetitivos e frases genéricas de explicação do enunciado/banco.
